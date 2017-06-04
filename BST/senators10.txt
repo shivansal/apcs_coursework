@@ -1,0 +1,10 @@
+Bernie_Sanders       10    9  8 1941      Independent  Vermont          1 3 2019
+Bill_Nelson          17    9 29 1942      Democrat     Florida          1 3 2019  
+Amy_Klobuchar        10    5 25 1960      Democrat     Minnesota        1 3 2019
+Ben_Sasse             2    2 22 1972      Republican   Nebraska         1 3 2021
+Angus_King            4    3 31 1944      Independent  Maine            1 3 2019
+Bob_Corker           10    8 24 1952      Republican   Tennessee        1 3 2019 
+Bill_Cassidy          2    9 28 1957      Republican   Louisiana        1 3 2021
+Al_Franken            8    5 21 1951      Democrat     Minnesota        1 3 2021 
+Ben_Cardin           10   10  5 1943      Democrat     Maryland         1 3 2019
+Bob_Casey            10    4 13 1960      Democrat     Pennsylvania     1 3 2019
